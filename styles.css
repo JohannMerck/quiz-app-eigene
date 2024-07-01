@@ -1,0 +1,62 @@
+h1 {
+  color: rgb(0, 0, 0);
+  padding: 10px;
+  background-color: rgb(148, 165, 148);
+  border-radius: 10px;
+  display: flex;
+  padding-left: 10px;
+  position: fixed;
+  right: 50%;
+  top: 1px;
+  text-align: center;
+}
+
+.question-card {
+  position: fixed;
+  top: 20%;
+  right: 75%;
+}
+
+.hashtags {
+  color: rgb(0, 0, 0);
+  padding: 10px;
+  background-color: rgb(148, 165, 148);
+  border-radius: 50px;
+  display: flex;
+  padding-left: 10px;
+  right: 70%;
+  justify-content: space-between;
+}
+
+.hashtag1 {
+  color: rgb(0, 0, 0);
+  padding: 10px;
+  background-color: rgb(148, 165, 148);
+  border-radius: 10px;
+  display: flex;
+  padding-left: 0;
+  position: fixed;
+  right: 70%;
+}
+
+.hashtag2 {
+  color: rgb(0, 0, 0);
+  padding: 10px;
+  background-color: rgb(148, 165, 148);
+  border-radius: 10px;
+  display: flex;
+  padding-left: 0;
+  position: fixed;
+  right: 60%;
+}
+
+.hashtag3 {
+  color: rgb(0, 0, 0);
+  padding: 10px;
+  background-color: rgb(148, 165, 148);
+  border-radius: 10px;
+  display: flex;
+  padding-left: 0;
+  position: fixed;
+  right: 50%;
+}
